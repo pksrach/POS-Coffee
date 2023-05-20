@@ -13,5 +13,5 @@ Project:
 
 Clone Project:
 ```
-git clone https://github.com/pksrach/Coffee-POS.git
+https://github.com/pksrach/POS-Coffee.git
 ```
